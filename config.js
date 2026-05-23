@@ -1,5 +1,5 @@
 // AirSight Analytics — configuratie
-// Gegenereerd: 22-5-2026
+// Gegenereerd: 23-5-2026
 
 const SITE = {
   "naam": "AirSight Analytics",
@@ -778,7 +778,7 @@ const TEKSTEN = {
   "site-kop1": "",
   "site-kop2": "",
   "site-knop": "Bekijk de analyse",
-  "cs01-titel": "On - Time Performance analyse ",
+  "cs01-titel": "On Time Performance analyse ",
   "cs01-omschrijving": "In deze case analyseer ik de punctualiteit van 4.648 vertrekken tijdens de periode van 6 tot 12 april 2026. Aan de hand van OTP per uur en per pier maak ik inzichtelijk wanneer en waar vluchten vertraagd vertrekken. De centrale bevinding: het piekuur 15:00– 18:00 scoort 26.8 procentpunten onder Schiphols streefwaarde van 80%.",
   "cs02-titel": "Oorzaakanalyse: waarom scoort de middagpiek (15:00– 18:00) minder goed?",
   "cs02-intro": "Voortbouwend op Case 1 zoek ik de oorzaak van de middagpiekdip. Door pier- en gatepatronen te combineren met ketenverantwoordelijkheden identificeer ik twee structurele oorzaken en benoem welke partijen daarin een rol kunnen spelen. Lezer ziet hier: de kwantificering van het probleem, de twee oorzaken met methodologische onderbouwing en de conclusie.",
@@ -790,7 +790,7 @@ const TEKSTEN = {
   "rc-bullet1": "+8 min",
   "rc-bullet2": "+11 min",
   "rc-keten": "Oorzaak 1 ligt bij de afhandelaar \nOorzaak 2 bij LVNL. ACPC is de verbindende partij.",
-  "conc-kop": "Data wijst consistent naar hetzelfde knelpunt",
+  "conc-kop": "",
   "conc-tekst": "Piekuur 15 – 18 scoort ruim 26 procentpunten onder de 80% streefwaarde. Twee oorzaken: te laat instappen en Gate D9-conflicten. Bij  beide oorzaken is Schiphol gebonden aan ketenpartijen. Let op: deze analyse is gebaseerd op gepubliceerde vluchtdata (Schiphol Public Flight API) en houdt geen rekening met interne wave planning (wat wellicht wel een invloed kan hebben) een vervolgstap zou zijn om deze laag toe te voegen voor nog nauwkeurigere piekanalyse.",
   "chart-hourly-titel": "Punctualiteit per uur",
   "chart-hourly-cap": "Elke balk = % vluchten op tijd per uur. Rood = meer dan 30% te laat. De middaguren (15–18h) scoren structureel het slechtst.",
