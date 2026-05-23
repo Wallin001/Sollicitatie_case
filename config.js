@@ -791,7 +791,7 @@ const TEKSTEN = {
   "rc-bullet2": "+11 min",
   "rc-keten": "Oorzaak 1 ligt bij de afhandelaar \nOorzaak 2 bij LVNL. ACPC is de verbindende partij.",
   "conc-kop": "",
-  "conc-tekst": "Piekuur 15 – 18 scoort ruim 26 procentpunten onder de 80% streefwaarde. Twee oorzaken: te laat instappen en Gate D9-conflicten. Bij  beide oorzaken is Schiphol gebonden aan ketenpartijen. Let op: deze analyse is gebaseerd op gepubliceerde vluchtdata (Schiphol Public Flight API) en houdt geen rekening met interne wave planning (wat wellicht wel een invloed kan hebben) een vervolgstap zou zijn om deze laag toe te voegen voor nog nauwkeurigere piekanalyse.",
+  "conc-tekst": "Piekuur 15 – 18 scoort 27 procentpunten onder de 80% streefwaarde. Twee oorzaken: te laat instappen en Gate D9-conflicten. Bij  beide oorzaken is Schiphol gebonden aan ketenpartijen. Let op: deze analyse is gebaseerd op gepubliceerde vluchtdata (Schiphol Public Flight API) en houdt geen rekening met interne wave planning (wat wellicht wel een invloed kan hebben) een vervolgstap zou zijn om deze laag toe te voegen voor nog nauwkeurigere piekanalyse.",
   "chart-hourly-titel": "Punctualiteit per uur",
   "chart-hourly-cap": "Elke balk = % vluchten op tijd per uur. Rood = meer dan 30% te laat. De middaguren (15–18h) scoren structureel het slechtst.",
   "chart-hourly-aanpak": "Per uur: (vluchten met actualOffBlockTime ≤ scheduleDateTime + 15 min) ÷ totaal vluchten dat uur × 100. OTP-drempel: IATA ≤15 min.",
