@@ -775,8 +775,8 @@ const BUSINESS_CASE = {
 
 const TEKSTEN = {
   "site-badge": "Schiphol vertrekprestaties",
-  "site-kop1": "Periode van 6 tot 12 april 2026",
-  "site-kop2": " 4.648 vluchten",
+  "site-kop1": "",
+  "site-kop2": "",
   "site-knop": "Bekijk de analyse",
   "cs01-titel": "On - Time Performance analyse ",
   "cs01-omschrijving": "In deze case analyseer ik de punctualiteit van 4.648 vertrekken tijdens de periode van 6 tot 12 april 2026. Aan de hand van OTP per uur en per pier maak ik inzichtelijk wanneer en waar vluchten vertraagd vertrekken. De centrale bevinding: het piekuur 15:00– 18:00 scoort 26.8 procentpunten onder Schiphols streefwaarde van 80%.",
